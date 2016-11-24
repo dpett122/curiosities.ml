@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+body {
+            min-width:1500px;
+			margin-top: 20px;
+			margin-bottom: 20px;
+			margin-left: 20px;
+			margin-right: 20px;
+}
+body {
+			margin-top: 20px;
+			margin-bottom: 20px;
+			margin-left: 20px;
+			margin-right: 20px;
+    
+            font-family: "Times New Roman", "Times", serif;
+            font-size: 13px; 
+}
+#one {
+			margin-bottom: 20px;
+}
+img {
+			max-width: 1000px;
+			width: 100%;
+            margin-bottom: 20px;
+}
+a {
+			content: black;
+			text-decoration: none;
+			color: black;
+}
+a:hover {
+			background-color:red;
+            color:red;
+}
+
