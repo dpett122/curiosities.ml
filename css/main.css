@@ -3,7 +3,6 @@
 body {
 	position:relative;
 	font-size:14px;
-	font-family:"Times New Roman", Times;
 	margin:20px;
 	max-width: 800px;
 }
@@ -24,5 +23,5 @@ p {
 
 }
 #one {
-	font-size:14px;
+	font-size:12px;
 }
