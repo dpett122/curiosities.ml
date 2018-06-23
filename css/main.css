@@ -1,25 +1,25 @@
 /* Main index CSS */
 
 body {
-	position:relative;
-	font-size:.85rem;
-	line-height: 1rem;
-	margin:1.25rem;
-	max-width: 800px;
+    position: relative;
+    font-size: .85rem;
+    line-height: 1rem;
+    margin: 1.25rem;
+    max-width: 800px;
 }
 
 p {
-	margin-bottom: .5rem;
-	margin-top: 0;
-
+    margin-bottom: .5rem;
+    margin-top: 0;
 }
+
 .documentation {
-	font-size: 0.7rem;;
+    font-size: 0.7rem;
 }
 
 .documentation img {
-	width:100%;
-	max-width:800px;
-	padding-top: 1rem;
-	padding-bottom: 0;
+    width: 100%;
+    max-width: 800px;
+    padding-top: 1rem;
+    padding-bottom: 0;
 }
